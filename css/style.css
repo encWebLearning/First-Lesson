@@ -1,20 +1,43 @@
 .gog {
-   color: red;
+	color: red;
+	color: blue;
 }
 
 body {
-   font-style: 15px;
+	font-style: 15px;
 }
 
-body div {
-   font-style: 44px;
+div {
+	font-style: 44px;
 }
 
 .block {
-   color: red;
-}
-.zozoz {
+	color: red;
 }
 
-.zozoz {
+.erter {
+}
+.God {
+}
+.Zimd {
+}
+.Ogr {
+}
+
+.erter {
+}
+
+.zorg {
+	color: red;
+}
+
+.Go4d {
+}
+.Z332 {
+}
+.23fsd {
+}
+.block {
+	&__ {
+	}
 }
